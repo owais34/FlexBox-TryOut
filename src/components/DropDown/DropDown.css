@@ -1,0 +1,24 @@
+.dropdown{
+    /* background-image: linear-gradient(to bottom, #202040, #683062, #b63c64, #ef6348, #ffa500); */
+    background-color: #ef6348;
+    padding: 5px;
+    font-size: 1.5em;
+    margin: 5px;
+    border: 2px orange solid;
+    border-radius: 10px;
+    color: #202040;
+    font-weight: 700;
+    text-align: center;
+}
+
+.label{
+    background-color: #202040;
+    color: wheat;
+    border: 1px orange solid;
+    border-radius: 10px;
+}
+
+.dropdown-option{
+    background-color: #4b5d67;
+    color: orange;
+}
