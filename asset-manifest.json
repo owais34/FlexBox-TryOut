@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FlexBox-TryOut/static/css/main.729e65ef.chunk.css",
+    "main.js": "/FlexBox-TryOut/static/js/main.4373403b.chunk.js",
+    "main.js.map": "/FlexBox-TryOut/static/js/main.4373403b.chunk.js.map",
+    "runtime-main.js": "/FlexBox-TryOut/static/js/runtime-main.a9fd52a3.js",
+    "runtime-main.js.map": "/FlexBox-TryOut/static/js/runtime-main.a9fd52a3.js.map",
+    "static/js/2.eae85e6d.chunk.js": "/FlexBox-TryOut/static/js/2.eae85e6d.chunk.js",
+    "static/js/2.eae85e6d.chunk.js.map": "/FlexBox-TryOut/static/js/2.eae85e6d.chunk.js.map",
+    "static/js/3.70ecaa20.chunk.js": "/FlexBox-TryOut/static/js/3.70ecaa20.chunk.js",
+    "static/js/3.70ecaa20.chunk.js.map": "/FlexBox-TryOut/static/js/3.70ecaa20.chunk.js.map",
+    "index.html": "/FlexBox-TryOut/index.html",
+    "static/css/main.729e65ef.chunk.css.map": "/FlexBox-TryOut/static/css/main.729e65ef.chunk.css.map",
+    "static/js/2.eae85e6d.chunk.js.LICENSE.txt": "/FlexBox-TryOut/static/js/2.eae85e6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9fd52a3.js",
+    "static/js/2.eae85e6d.chunk.js",
+    "static/css/main.729e65ef.chunk.css",
+    "static/js/main.4373403b.chunk.js"
+  ]
+}
